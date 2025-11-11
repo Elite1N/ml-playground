@@ -1,0 +1,28 @@
+Implementing machine learning algorithms into various benchmark datasets for studying.
+
+
+Regression:
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+Multi-class Classification: 
+https://archive.ics.uci.edu/dataset/53/iris
+https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
+
+Clustering:
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+NLP:
+https://www.kaggle.com/competitions/nlp-getting-started
+
+Time Series:
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting
+https://github.com/zhouhaoyi/ETDataset/tree/main?tab=readme-ov-file
+
+Credit Risk??
+https://www.listendata.com/2019/08/datasets-for-credit-risk-modeling.html
+https://www.kaggle.com/datasets/pradip11/amexpert-codelab-2021?select=train.csv
+
+
+
+A bunch of time indexed datasets
+https://github.com/liaoyuhua/open-time-series-datasets
